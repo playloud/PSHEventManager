@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSHEventManager", "PSHEventManager\PSHEventManager.csproj", "{05DE90D6-2839-42D8-A216-05FD6EA27507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSHEventManagerTest", "PSHEventManagerTest\PSHEventManagerTest.csproj", "{7602A7D4-6F3D-4FF0-876D-D3476C4272E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DE90D6-2839-42D8-A216-05FD6EA27507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DE90D6-2839-42D8-A216-05FD6EA27507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DE90D6-2839-42D8-A216-05FD6EA27507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DE90D6-2839-42D8-A216-05FD6EA27507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7602A7D4-6F3D-4FF0-876D-D3476C4272E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7602A7D4-6F3D-4FF0-876D-D3476C4272E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7602A7D4-6F3D-4FF0-876D-D3476C4272E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7602A7D4-6F3D-4FF0-876D-D3476C4272E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A1230B-E594-4D43-AC41-AAAB2FC2A184}
+	EndGlobalSection
+EndGlobal
